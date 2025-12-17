@@ -1,0 +1,5 @@
+Dataset Source:
+https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels
+
+Note:
+Due to copyright restrictions, the dataset is not uploaded to this repository.
